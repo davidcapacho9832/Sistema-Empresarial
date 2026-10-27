@@ -1,0 +1,5 @@
+backendUsuarios/target/
+backendUsuarios/.mvn/
+**/.vscode/
+**/.idea/
+*.class
